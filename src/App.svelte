@@ -4,7 +4,8 @@ import HowTo from "./HowTo.svelte";
 
 </script>
 <style>
-    h1{
+    h1,
+    h3 {
         text-align: center;
     }
 </style>
@@ -13,3 +14,10 @@ import HowTo from "./HowTo.svelte";
 <Timer />
 
 <HowTo />
+
+<h3>
+    <a href="https://wwww.who.int/gpsc/clean_hands_protection/en/">Picture Source</a>
+
+    <a href="https://freesound.org/people/metrostock99/sounds/345086/">Sound Source</a>
+</h3>
+

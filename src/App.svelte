@@ -15,7 +15,7 @@ function timerEnds(e) {
 </style>
 <h1>Handwashing App</h1>
 
-<Timer on:end={timerEnds}/>
+<Timer on:end={timerEnds} />
 
 <HowTo />
 

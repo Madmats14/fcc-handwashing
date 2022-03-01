@@ -1,6 +1,5 @@
 <script>
     export let progress = 0;
-    import outOftime from "./Timer.svelte"
 </script>
 
 
